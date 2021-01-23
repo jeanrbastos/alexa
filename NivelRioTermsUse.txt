@@ -1,0 +1,3 @@
+As informações divulgadas pela skill são coletadas do site do AlertaBlu (http://alertablu.cob.sc.gov.br).
+O autor da skill não se responsabiliza com as veracidade das informações.
+Em caso de dúvida consulte orgão oficiais em busca de informações corretas.
